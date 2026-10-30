@@ -1,2 +1,2 @@
-# ms.ngila-s-gallery
-my project is about a gallery
+# stormi' slay station
+my project is about an online website for shopping lipgloss and sunglasses
